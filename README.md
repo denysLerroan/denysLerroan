@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Tenho paixão pelos estudos e acredito que eles me transformam não só tecnicamente mas como pessoa também.
+
 - Estudante de Análise e Desenvolvimento de Sistemas
 - Apaixonado por tecnologia
 - Menino do Angular & Spring
