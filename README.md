@@ -2,7 +2,7 @@
 <h4>Fullstack Developer</h4>
 
 
-<a href="https://www.linkedin.com/in/denyslerroan/" target="_blank"><img src="https://i.ibb.co/wwbJ7nt/linkedin-icon-icons-com-66096-1.png" alt="linkedin-icon-icons-com-66096-1" border="0"></a>
+<a href="https://www.linkedin.com/in/denyslerroan/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
 <a href="mailto:d.lerroan@gmail.com" target="_blank"><img src="https://i.ibb.co/7SMXdHv/gmail-icon-icons-com-62758-1.png" alt="gmail-icon-icons-com-62758-1" border="0"></a>
 <a href="https://dlerroan.netlify.app/" target="_blank"><img src="https://i.ibb.co/ZJyQBj6/computer-laptop-user-developer-programer-108610.png" alt="computer-laptop-user-developer-programer-108610" border="0"></a>
 <!--
