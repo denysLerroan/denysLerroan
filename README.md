@@ -25,7 +25,6 @@ Tenho paixão pelos estudos e acredito que eles me transformam não só tecnicam
 
 - Estudante de Análise e Desenvolvimento de Sistemas
 - Apaixonado por tecnologia
-- Menino do Front End que sonha e busca tornar-se um Fullstack Developer
 
 Iniciei na programação com Java, HTML5 e CSS3, atualmente o meu foco de estudos estão em Angular & Spring. A integração entre os dois é simplesmente fantástica.😁 
 
