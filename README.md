@@ -1,5 +1,5 @@
 # Olá, eu sou o Denys 👋
-<h4>Front End Developer</h4>
+<h4>Estudante - Front End Developer e UI Designer</h4>
 
 
 
@@ -26,6 +26,7 @@ Tenho paixão pelos estudos e acredito que eles me transformam não só tecnicam
 - Estudante de Análise e Desenvolvimento de Sistemas
 - Apaixonado por tecnologia
 
-Iniciei na programação com Java, HTML5 e CSS3, atualmente o meu foco de estudos estão em Angular & Spring. A integração entre os dois é simplesmente fantástica.😁 
+Iniciei na programação com Java, HTML5 e CSS3, atualmente o meu foco de estudos Está em Javascript ES6+ e UI Design.😁 
 
-E aqui vai o <a href="https://dlerroan.netlify.app/" target="_blank">meu portfólio pessoal</a> com os trabalhos que desenvolvi durante os meus estudos. 
+E aqui vai o <a href="https://dlerroan.netlify.app/" target="_blank">meu portfólio pessoal</a> com os trabalhos que desenvolvi durante os meus estudos.
+Este portfólio acima será atualizado em breve com um novo design e arquitetura. Este é o link do esboço do novo portfólio: https://gracious-goodall-918432.netlify.app/ 
