@@ -26,7 +26,8 @@ Tenho paixão pelos estudos e acredito que eles me transformam não só tecnicam
 - Estudante de Análise e Desenvolvimento de Sistemas
 - Apaixonado por tecnologia
 
-Iniciei na programação com Java, HTML5 e CSS3, atualmente o meu foco de estudos Está em Javascript ES6+ e UI Design.😁 
+Iniciei na programação com Java mas, me descobri como front end developer após conhecer um pouco mais sobre a stack de front. Desde então comecei a estudar HTML5 e CSS3, e atualmente o meu foco de estudos Está em Javascript ES6+ e UI Design.😁 
 
-E aqui vai o <a href="https://dlerroan.netlify.app/" target="_blank"><span color="gray">meu portfólio pessoal</span></a> com os trabalhos que desenvolvi durante os meus estudos.
-Este portfólio acima será atualizado em breve com um novo design e arquitetura. Este é o link do esboço do novo portfólio: >>> https://dlerroan-website.netlify.app/ <<<
+Aqui vai o <a href="https://dlerroan-website.netlify.app/" target="_blank"><span color="gray">meu portfólio pessoal</span></a> com os trabalhos que desenvolvi durante os meus estudos.
+
+*Este portfólio acima está em fase final de desenvolvimento. Para conhecer mais sobre o meu trabalho e estudos por hora basta acessar o <a href="https://www.linkedin.com/in/denyslerroan/" target="_blank"><span color="gray">meu Linkedin</span></a>
